@@ -111,6 +111,13 @@ ul {
   margin-bottom: 0;
 }
 
+.main__photo {
+  float: right;
+  margin-left: 16px;
+  margin-bottom: 16px;
+  border-radius: 50%;
+}
+
 /* experience */
 
 .experience__position {
